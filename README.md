@@ -1,2 +1,5 @@
-# DataAnalysis-Dashbord
-I develop a comprehensive  project  in Excel, creating multiple  dashboard  and tables to analyze the data. This process involved several stages, Including data preprocessing, data cleaning, and data visualizatio.
+# Chaudary-Store-Data-Analysis (Interective Dashboard creation using MS Excel)
+## Project Overview
+The Chaudary Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grew more sales in 2023 & 2024.
+
+## Dataset used 
