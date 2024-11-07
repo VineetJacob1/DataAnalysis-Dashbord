@@ -15,3 +15,5 @@ The Chaudary Store wants to create an annual sales report for 2022. So that, the
 - Which channel is contributing maximum to the sales?
 - Highest sellimg category?
 - Percentage of Total Orders delivered?
+
+## Dashboard Interaction <a href="https://github.com/VineetJacob1/DataAnalysis-Dashbord/blob/main/Dashboard.png">View Dashboard</a>
