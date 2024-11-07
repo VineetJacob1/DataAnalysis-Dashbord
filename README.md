@@ -4,3 +4,14 @@ The Chaudary Store wants to create an annual sales report for 2022. So that, the
 
 ## Dataset used 
 <a href="https://github.com/VineetJacob1/DataAnalysis-Dashbord/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+
+## Questions 
+-Compare the sales and orders using single chart?
+-Which months got highest sales and orders?
+-Who purchased more -Men Vs Women?
+-What are the different ordes status in 2022?
+-List top 5 states contributon the sales?
+-Relation between age and gender based on the numbers of orders?
+-Which channel is contributing maximum to the sales?
+-Highest sellimg category?
+-Percentage of Total Orders delivered?
